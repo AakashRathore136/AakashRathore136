@@ -51,14 +51,6 @@ https://my-portfolio-nu-gules-48.vercel.app/
 
 ---
 
-## GitHub Stats
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AakashRathore136&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashRathore136&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
 ## Current Focus
 
 - AI-integrated web apps
