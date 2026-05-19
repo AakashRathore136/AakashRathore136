@@ -54,13 +54,12 @@ https://my-portfolio-nu-gules-48.vercel.app/
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AakashRathore136&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AakashRathore136&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashRathore136&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AakashRathore136&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## Current Focus
